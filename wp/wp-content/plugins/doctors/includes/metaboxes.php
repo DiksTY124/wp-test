@@ -1,7 +1,7 @@
 <?php
 if (!defined('ABSPATH')) exit;
 
-add_action('add_meta_boxes', function () {
+add_action('add_meta_boxes_doctors', function () {
     add_meta_box(
         'doctor_meta',
         'Данные врача',

@@ -50,6 +50,8 @@ get_header();
 		endif;
 		?>
 
+		<a href="/doctors">Перейти к врачам</a>
+
 	</main><!-- #main -->
 
 <?php
