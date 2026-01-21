@@ -8,6 +8,10 @@
  * Domain Path: /languages
  */
 
+require_once __DIR__ . '/includes/taxonomies.php';
+require_once __DIR__ . '/includes/metaboxes.php';
+
+
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
